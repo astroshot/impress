@@ -1,0 +1,25 @@
+div {
+  background-color: azure;
+}
+
+.impress {
+  display: inline; /**/
+  background-color: greenyellow;
+  color: black;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.upload {
+  text-align: center;
+  padding: 0px;
+  text-decoration: blue;
+  background-color: aliceblue;
+  height: 200px;
+  color: blueviolet;
+}
+
+body {
+  background-color: bisque;
+}
